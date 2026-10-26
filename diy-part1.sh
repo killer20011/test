@@ -15,5 +15,5 @@
 
 # Add a feed source
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-echo 'src-git luci-app-athena-led https://github.com/NONGFAH/luci-app-athena-led' >>feeds.conf.default
+#echo 'src-git luci-app-athena-led https://github.com/NONGFAH/luci-app-athena-led' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
